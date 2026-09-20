@@ -1,0 +1,15 @@
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\bin\Debug\net10.0\Development.exe
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\bin\Debug\net10.0\Development.deps.json
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\bin\Debug\net10.0\Development.runtimeconfig.json
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\bin\Debug\net10.0\Development.dll
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\bin\Debug\net10.0\Development.pdb
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\obj\Debug\net10.0\Development.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\obj\Debug\net10.0\Development.AssemblyInfoInputs.cache
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\obj\Debug\net10.0\Development.AssemblyInfo.cs
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\obj\Debug\net10.0\Development.csproj.CoreCompileInputs.cache
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\obj\Debug\net10.0\Development.sourcelink.json
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\obj\Debug\net10.0\Development.dll
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\obj\Debug\net10.0\refint\Development.dll
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\obj\Debug\net10.0\Development.pdb
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\obj\Debug\net10.0\Development.genruntimeconfig.cache
+C:\Development\Projects\BY_MY_SELF-PROJECTS\Software_Engineering\obj\Debug\net10.0\ref\Development.dll
